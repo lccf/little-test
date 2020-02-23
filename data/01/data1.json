@@ -1,0 +1,1900 @@
+{
+  "code": 1,
+  "data": {
+    "list": [
+      {
+        "brandCode": "MB",
+        "brandName": "Metersbonwe",
+        "categoryId": 113,
+        "imgUrl": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/226225\/226225_00.jpg",
+        "productCode": "226225",
+        "productId": "226225",
+        "productName": "\u7537\u9488\u7ec7\u77ed\u8896\u6064\uff08\u652f\u630114\u5929\u9000\u6362\uff09",
+        "marketPrice": 99,
+        "saleCount": 329,
+        "salesPrice": 39,
+        "stock": 1665,
+        "storeId": "",
+        "displayTag": "",
+        "discount": "39.0",
+        "promotionIds": "",
+        "tags": [
+          
+        ],
+        "colorProducts": [
+          {
+            "colorCode": "00",
+            "colorCodeId": "HQ01S11622622500",
+            "colorName": "\u4eae\u767d\u8272",
+            "colorSeriesCode": "6",
+            "colorSeriesName": "\u767d\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/226225\/226225_00_11.jpg",
+            "stock": 555
+          },
+          {
+            "colorCode": "30",
+            "colorCodeId": "HQ01S11622622530",
+            "colorName": "\u4e2d\u82b1\u7070",
+            "colorSeriesCode": "5",
+            "colorSeriesName": "\u7070\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/226225\/226225_30_10.jpg",
+            "stock": 555
+          },
+          {
+            "colorCode": "90",
+            "colorCodeId": "HQ01S11622622590",
+            "colorName": "\u5f71\u9ed1",
+            "colorSeriesCode": "3",
+            "colorSeriesName": "\u68d5\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/226225\/226225_90_09.jpg",
+            "stock": 555
+          }
+        ],
+        "channelCode": "HQ01S116",
+        "icon": "",
+        "imgPx": "",
+        "tagType": "",
+        "tagName": "",
+        "tagLocation": "rigth_bottom",
+        "tagPosition": "",
+        "imgUrl_300_300": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/226225\/226225_00.jpg?x-oss-process=image\/resize,m_lfit,w_300,h_300",
+        "defaultImage": "\/sources\/images\/goods\/MB\/226225\/226225_00.jpg"
+      },
+      {
+        "brandCode": "MB",
+        "brandName": "Metersbonwe",
+        "categoryId": 113,
+        "imgUrl": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/264050\/264050_00.jpg",
+        "productCode": "264050",
+        "productId": "264050",
+        "productName": "\u7537\u5f39\u529b\u5706\u9886\u57fa\u7840\u77ed\u8896T\uff08\u652f\u630114\u5929\u9000\u6362\uff09",
+        "marketPrice": 49,
+        "saleCount": 432,
+        "salesPrice": 49,
+        "stock": 1637,
+        "storeId": "",
+        "displayTag": "",
+        "discount": "100.0",
+        "promotionIds": "",
+        "tags": [
+          
+        ],
+        "colorProducts": [
+          {
+            "colorCode": "03",
+            "colorCodeId": "HQ01S11626405003",
+            "colorName": "\u4eae\u767d\u8272",
+            "colorSeriesCode": "6",
+            "colorSeriesName": "\u767d\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/264050\/264050_03_00.jpg",
+            "stock": 546
+          },
+          {
+            "colorCode": "30",
+            "colorCodeId": "HQ01S11626405030",
+            "colorName": "\u82b1\u7070",
+            "colorSeriesCode": "5",
+            "colorSeriesName": "\u7070\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/264050\/264050_30_00.jpg",
+            "stock": 546
+          },
+          {
+            "colorCode": "99",
+            "colorCodeId": "HQ01S11626405099",
+            "colorName": "\u5f71\u9ed1",
+            "colorSeriesCode": "13",
+            "colorSeriesName": "\u9ed1\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/264050\/264050_99_00.jpg",
+            "stock": 545
+          }
+        ],
+        "channelCode": "HQ01S116",
+        "icon": "",
+        "imgPx": "",
+        "tagType": "",
+        "tagName": "",
+        "tagLocation": "rigth_bottom",
+        "tagPosition": "",
+        "imgUrl_300_300": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/264050\/264050_00.jpg?x-oss-process=image\/resize,m_lfit,w_300,h_300",
+        "defaultImage": "\/sources\/images\/goods\/MB\/264050\/264050_00.jpg"
+      },
+      {
+        "brandCode": "MB",
+        "brandName": "Metersbonwe",
+        "categoryId": 112,
+        "imgUrl": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/211477\/211477_00.jpg",
+        "productCode": "211477",
+        "productId": "211477",
+        "productName": "\u7537\u9488\u7ec7\u957f\u8896\u6064\uff08\u652f\u630114\u5929\u9000\u6362\uff09",
+        "marketPrice": 79,
+        "saleCount": 102,
+        "salesPrice": 19,
+        "stock": 7770,
+        "storeId": "",
+        "displayTag": "",
+        "discount": "24.0",
+        "promotionIds": "",
+        "tags": [
+          
+        ],
+        "colorProducts": [
+          {
+            "colorCode": "00",
+            "colorCodeId": "HQ01S11621147700",
+            "colorName": "\u4eae\u767d\u8272",
+            "colorSeriesCode": "6",
+            "colorSeriesName": "\u767d\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/211477\/211477_00_15.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "30",
+            "colorCodeId": "HQ01S11621147730",
+            "colorName": "\u4e2d\u82b1\u7070",
+            "colorSeriesCode": "5",
+            "colorSeriesName": "\u7070\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/211477\/211477_30_11.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "40",
+            "colorCodeId": "HQ01S11621147740",
+            "colorName": "\u6d77\u5c9b\u84dd",
+            "colorSeriesCode": "11",
+            "colorSeriesName": "\u84dd\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/211477\/211477_40_18.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "41",
+            "colorCodeId": "HQ01S11621147741",
+            "colorName": "\u6df1\u519b\u84dd",
+            "colorSeriesCode": "11",
+            "colorSeriesName": "\u84dd\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/211477\/211477_41_09.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "50",
+            "colorCodeId": "HQ01S11621147750",
+            "colorName": "\u5149\u8c31\u7eff",
+            "colorSeriesCode": "10",
+            "colorSeriesName": "\u7eff\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/211477\/211477_50_14.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "51",
+            "colorCodeId": "HQ01S11621147751",
+            "colorName": "\u6df1\u53f6\u7eff",
+            "colorSeriesCode": "10",
+            "colorSeriesName": "\u7eff\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/211477\/211477_51_10.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "60",
+            "colorCodeId": "HQ01S11621147760",
+            "colorName": "\u9648\u5e74\u7d2b",
+            "colorSeriesCode": "7",
+            "colorSeriesName": "\u7d2b\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/211477\/211477_60_16.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "70",
+            "colorCodeId": "HQ01S11621147770",
+            "colorName": "\u5357\u7f8e\u7ea2",
+            "colorSeriesCode": "9",
+            "colorSeriesName": "\u7ea2\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/211477\/211477_70_17.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "71",
+            "colorCodeId": "HQ01S11621147771",
+            "colorName": "\u6ce2\u5c14\u56fe\u7ea2",
+            "colorSeriesCode": "9",
+            "colorSeriesName": "\u7ea2\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/211477\/211477_71_12.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "90",
+            "colorCodeId": "HQ01S11621147790",
+            "colorName": "\u5f71\u9ed1",
+            "colorSeriesCode": "3",
+            "colorSeriesName": "\u68d5\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/211477\/211477_90_13.jpg",
+            "stock": 777
+          }
+        ],
+        "channelCode": "HQ01S116",
+        "icon": "",
+        "imgPx": "",
+        "tagType": "",
+        "tagName": "",
+        "tagLocation": "rigth_bottom",
+        "tagPosition": "",
+        "imgUrl_300_300": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/211477\/211477_00.jpg?x-oss-process=image\/resize,m_lfit,w_300,h_300",
+        "defaultImage": "\/sources\/images\/goods\/MB\/211477\/211477_00.jpg"
+      },
+      {
+        "brandCode": "MB",
+        "brandName": "Metersbonwe",
+        "categoryId": 110,
+        "imgUrl": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/212429\/212429_00.jpg",
+        "productCode": "212429",
+        "productId": "212429",
+        "productName": "\u7537A\u7248\u51c0\u8272\u9488\u7ec7\u7ffb\u9886\u6064(212430\u6b3e)",
+        "marketPrice": 139,
+        "saleCount": 173,
+        "salesPrice": 19,
+        "stock": 12432,
+        "storeId": "",
+        "displayTag": "",
+        "discount": "14.0",
+        "promotionIds": "",
+        "tags": [
+          
+        ],
+        "colorProducts": [
+          {
+            "colorCode": "00",
+            "colorCodeId": "HQ01S11621242900",
+            "colorName": "\u6f02\u767d",
+            "colorSeriesCode": "6",
+            "colorSeriesName": "\u767d\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/212429\/212429_00_13.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "20",
+            "colorCodeId": "HQ01S11621242920",
+            "colorName": "\u7eff\u9ec4",
+            "colorSeriesCode": "12",
+            "colorSeriesName": "\u9ec4\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/212429\/212429_20_10.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "21",
+            "colorCodeId": "HQ01S11621242921",
+            "colorName": "\u660e\u9ec4",
+            "colorSeriesCode": "12",
+            "colorSeriesName": "\u9ec4\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/212429\/212429_21_09.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "30",
+            "colorCodeId": "HQ01S11621242930",
+            "colorName": "\u6df1\u74e6\u7070",
+            "colorSeriesCode": "5",
+            "colorSeriesName": "\u7070\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/212429\/212429_30_21.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "31",
+            "colorCodeId": "HQ01S11621242931",
+            "colorName": "\u4e2d\u82b1\u7070",
+            "colorSeriesCode": "5",
+            "colorSeriesName": "\u7070\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/212429\/212429_31_14.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "40",
+            "colorCodeId": "HQ01S11621242940",
+            "colorName": "\u6df1\u6e56\u84dd",
+            "colorSeriesCode": "11",
+            "colorSeriesName": "\u84dd\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/212429\/212429_40_18.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "41",
+            "colorCodeId": "HQ01S11621242941",
+            "colorName": "\u6df1\u519b\u84dd",
+            "colorSeriesCode": "11",
+            "colorSeriesName": "\u84dd\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/212429\/212429_41_14.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "42",
+            "colorCodeId": "HQ01S11621242942",
+            "colorName": "\u74e6\u84dd",
+            "colorSeriesCode": "11",
+            "colorSeriesName": "\u84dd\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/212429\/212429_42_15.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "43",
+            "colorCodeId": "HQ01S11621242943",
+            "colorName": "\u73e0\u5b9d\u84dd",
+            "colorSeriesCode": "11",
+            "colorSeriesName": "\u84dd\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/212429\/212429_43_15.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "50",
+            "colorCodeId": "HQ01S11621242950",
+            "colorName": "\u7532\u58f3\u7eff",
+            "colorSeriesCode": "10",
+            "colorSeriesName": "\u7eff\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/212429\/212429_50_19.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "51",
+            "colorCodeId": "HQ01S11621242951",
+            "colorName": "\u51dd\u80f6\u7eff",
+            "colorSeriesCode": "10",
+            "colorSeriesName": "\u7eff\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/212429\/212429_51_11.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "70",
+            "colorCodeId": "HQ01S11621242970",
+            "colorName": "\u675c\u9e43\u82b1\u7ea2",
+            "colorSeriesCode": "9",
+            "colorSeriesName": "\u7ea2\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/212429\/212429_70_12.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "71",
+            "colorCodeId": "HQ01S11621242971",
+            "colorName": "\u6c99\u62c9\u7ea2",
+            "colorSeriesCode": "9",
+            "colorSeriesName": "\u7ea2\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/212429\/212429_71_10.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "72",
+            "colorCodeId": "HQ01S11621242972",
+            "colorName": "\u7f28\u4e39\u7c89\u82b1\u7eb1",
+            "colorSeriesCode": "9",
+            "colorSeriesName": "\u7ea2\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/212429\/212429_72_31.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "80",
+            "colorCodeId": "HQ01S11621242980",
+            "colorName": "\u7ea2\u9ebb\u6a59",
+            "colorSeriesCode": "4",
+            "colorSeriesName": "\u6a59\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/212429\/212429_80_16.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "90",
+            "colorCodeId": "HQ01S11621242990",
+            "colorName": "\u6b63\u9ed1",
+            "colorSeriesCode": "3",
+            "colorSeriesName": "\u68d5\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/212429\/212429_90_11.jpg",
+            "stock": 777
+          }
+        ],
+        "channelCode": "HQ01S116",
+        "icon": "",
+        "imgPx": "",
+        "tagType": "",
+        "tagName": "",
+        "tagLocation": "rigth_bottom",
+        "tagPosition": "",
+        "imgUrl_300_300": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/212429\/212429_00.jpg?x-oss-process=image\/resize,m_lfit,w_300,h_300",
+        "defaultImage": "\/sources\/images\/goods\/MB\/212429\/212429_00.jpg"
+      },
+      {
+        "brandCode": "MB",
+        "brandName": "Metersbonwe",
+        "categoryId": 110,
+        "imgUrl": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/212436\/212436_00.jpg",
+        "productCode": "212436",
+        "productId": "212436",
+        "productName": "\u7537\u9488\u7ec7\u7ffb\u9886\u6064\uff08\u652f\u630114\u5929\u9000\u6362\uff09",
+        "marketPrice": 119,
+        "saleCount": 136,
+        "salesPrice": 15,
+        "stock": 9324,
+        "storeId": "",
+        "displayTag": "",
+        "discount": "13.0",
+        "promotionIds": "",
+        "tags": [
+          
+        ],
+        "colorProducts": [
+          {
+            "colorCode": "00",
+            "colorCodeId": "HQ01S11621243600",
+            "colorName": "\u6f02\u767d",
+            "colorSeriesCode": "6",
+            "colorSeriesName": "\u767d\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/212436\/212436_00_17.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "20",
+            "colorCodeId": "HQ01S11621243620",
+            "colorName": "\u7eff\u9ec4",
+            "colorSeriesCode": "12",
+            "colorSeriesName": "\u9ec4\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/212436\/212436_20_14.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "30",
+            "colorCodeId": "HQ01S11621243630",
+            "colorName": "\u6df1\u74e6\u7070",
+            "colorSeriesCode": "5",
+            "colorSeriesName": "\u7070\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/212436\/212436_30_13.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "31",
+            "colorCodeId": "HQ01S11621243631",
+            "colorName": "\u4e2d\u82b1\u7070",
+            "colorSeriesCode": "5",
+            "colorSeriesName": "\u7070\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/212436\/212436_31_15.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "40",
+            "colorCodeId": "HQ01S11621243640",
+            "colorName": "\u65e5\u98df\u84dd",
+            "colorSeriesCode": "11",
+            "colorSeriesName": "\u84dd\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/212436\/212436_40_10.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "41",
+            "colorCodeId": "HQ01S11621243641",
+            "colorName": "\u571f\u8033\u5176\u84dd",
+            "colorSeriesCode": "11",
+            "colorSeriesName": "\u84dd\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/212436\/212436_41_19.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "42",
+            "colorCodeId": "HQ01S11621243642",
+            "colorName": "\u74e6\u84dd",
+            "colorSeriesCode": "11",
+            "colorSeriesName": "\u84dd\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/212436\/212436_42_12.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "50",
+            "colorCodeId": "HQ01S11621243650",
+            "colorName": "\u51dd\u80f6\u7eff",
+            "colorSeriesCode": "10",
+            "colorSeriesName": "\u7eff\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/212436\/212436_50_18.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "51",
+            "colorCodeId": "HQ01S11621243651",
+            "colorName": "\u590f\u7eff",
+            "colorSeriesCode": "10",
+            "colorSeriesName": "\u7eff\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/212436\/212436_51_20.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "70",
+            "colorCodeId": "HQ01S11621243670",
+            "colorName": "\u675c\u9e43\u82b1\u7ea2",
+            "colorSeriesCode": "9",
+            "colorSeriesName": "\u7ea2\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/212436\/212436_70_11.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "71",
+            "colorCodeId": "HQ01S11621243671",
+            "colorName": "\u7194\u5ca9\u7ea2",
+            "colorSeriesCode": "9",
+            "colorSeriesName": "\u7ea2\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/212436\/212436_71_09.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "90",
+            "colorCodeId": "HQ01S11621243690",
+            "colorName": "\u6b63\u9ed1",
+            "colorSeriesCode": "3",
+            "colorSeriesName": "\u68d5\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/212436\/212436_90_16.jpg",
+            "stock": 777
+          }
+        ],
+        "channelCode": "HQ01S116",
+        "icon": "",
+        "imgPx": "",
+        "tagType": "",
+        "tagName": "",
+        "tagLocation": "rigth_bottom",
+        "tagPosition": "",
+        "imgUrl_300_300": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/212436\/212436_00.jpg?x-oss-process=image\/resize,m_lfit,w_300,h_300",
+        "defaultImage": "\/sources\/images\/goods\/MB\/212436\/212436_00.jpg"
+      },
+      {
+        "brandCode": "MN",
+        "brandName": "Mini MooMoo",
+        "categoryId": 696,
+        "imgUrl": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/203049\/203049_00.jpg",
+        "productCode": "203049",
+        "productId": "203049",
+        "productName": "\u5973\u5a74\u7ae5\u5f69\u8272\u6ce2\u70b9\u957f\u6b3eT\u6064\uff08\u652f\u630114\u5929\u9000\u6362\uff09",
+        "marketPrice": 159,
+        "saleCount": 121,
+        "salesPrice": 35,
+        "stock": 444,
+        "storeId": "",
+        "displayTag": "",
+        "discount": "22.0",
+        "promotionIds": "",
+        "tags": [
+          
+        ],
+        "colorProducts": [
+          {
+            "colorCode": "20",
+            "colorCodeId": "HQ01S11620304920",
+            "colorName": "\u5f69\u70b9\u7ec4",
+            "colorSeriesCode": "12",
+            "colorSeriesName": "\u9ec4\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/203049\/203049_20_09.jpg",
+            "stock": 444
+          }
+        ],
+        "channelCode": "HQ01S116",
+        "icon": "",
+        "imgPx": "",
+        "tagType": "",
+        "tagName": "",
+        "tagLocation": "rigth_bottom",
+        "tagPosition": "",
+        "imgUrl_300_300": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/203049\/203049_00.jpg?x-oss-process=image\/resize,m_lfit,w_300,h_300",
+        "defaultImage": "\/sources\/images\/goods\/MB\/203049\/203049_00.jpg"
+      },
+      {
+        "brandCode": "MB",
+        "brandName": "Metersbonwe",
+        "categoryId": 113,
+        "imgUrl": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/206450\/206450_00.jpg",
+        "productCode": "206450",
+        "productId": "206450",
+        "productName": "\u7537\u7ec5\u58eb\u8138\u8c31\u9488\u7ec7\u77ed\u8896\u6064\uff08\u652f\u630114\u5929\u9000\u6362\uff09",
+        "marketPrice": 79,
+        "saleCount": 568,
+        "salesPrice": 19,
+        "stock": 6993,
+        "storeId": "",
+        "displayTag": "",
+        "discount": "24.0",
+        "promotionIds": "",
+        "tags": [
+          
+        ],
+        "colorProducts": [
+          {
+            "colorCode": "00",
+            "colorCodeId": "HQ01S11620645000",
+            "colorName": "\u4eae\u767d\u8272",
+            "colorSeriesCode": "6",
+            "colorSeriesName": "\u767d\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/206450\/206450_00_15.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "01",
+            "colorCodeId": "HQ01S11620645001",
+            "colorName": "\u4eae\u767d\u8272-1",
+            "colorSeriesCode": "6",
+            "colorSeriesName": "\u767d\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/206450\/206450_01_17.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "30",
+            "colorCodeId": "HQ01S11620645030",
+            "colorName": "\u4e2d\u82b1\u7070",
+            "colorSeriesCode": "5",
+            "colorSeriesName": "\u7070\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/206450\/206450_30_13.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "31",
+            "colorCodeId": "HQ01S11620645031",
+            "colorName": "\u4e2d\u82b1\u70701",
+            "colorSeriesCode": "5",
+            "colorSeriesName": "\u7070\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/206450\/206450_31_12.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "40",
+            "colorCodeId": "HQ01S11620645040",
+            "colorName": "\u7f8a\u7ed2\u84dd",
+            "colorSeriesCode": "11",
+            "colorSeriesName": "\u84dd\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/206450\/206450_40_09.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "50",
+            "colorCodeId": "HQ01S11620645050",
+            "colorName": "\u51b0\u7eff",
+            "colorSeriesCode": "10",
+            "colorSeriesName": "\u7eff\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/206450\/206450_50_10.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "70",
+            "colorCodeId": "HQ01S11620645070",
+            "colorName": "\u8299\u84c9\u7ea2",
+            "colorSeriesCode": "9",
+            "colorSeriesName": "\u7ea2\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/206450\/206450_70_14.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "90",
+            "colorCodeId": "HQ01S11620645090",
+            "colorName": "\u9e22\u5c3e\u84dd\u9ed1",
+            "colorSeriesCode": "3",
+            "colorSeriesName": "\u68d5\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/206450\/206450_90_16.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "91",
+            "colorCodeId": "HQ01S11620645091",
+            "colorName": "\u5f71\u9ed1",
+            "colorSeriesCode": "3",
+            "colorSeriesName": "\u68d5\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/206450\/206450_91_11.jpg",
+            "stock": 777
+          }
+        ],
+        "channelCode": "HQ01S116",
+        "icon": "",
+        "imgPx": "",
+        "tagType": "",
+        "tagName": "",
+        "tagLocation": "rigth_bottom",
+        "tagPosition": "",
+        "imgUrl_300_300": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/206450\/206450_00.jpg?x-oss-process=image\/resize,m_lfit,w_300,h_300",
+        "defaultImage": "\/sources\/images\/goods\/MB\/206450\/206450_00.jpg"
+      },
+      {
+        "brandCode": "MB",
+        "brandName": "Metersbonwe",
+        "categoryId": 146,
+        "imgUrl": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/206503\/206503_00.jpg",
+        "productCode": "206503",
+        "productId": "206503",
+        "productName": "\u5973\u68c9\u9ebb\u9762\u6599\u7ee3\u82b1\u77ed\u8896\u6064\uff08\u652f\u630114\u5929\u9000\u6362\uff09",
+        "marketPrice": 169,
+        "saleCount": 187,
+        "salesPrice": 25,
+        "stock": 1665,
+        "storeId": "",
+        "displayTag": "",
+        "discount": "15.0",
+        "promotionIds": "",
+        "tags": [
+          
+        ],
+        "colorProducts": [
+          {
+            "colorCode": "00",
+            "colorCodeId": "HQ01S11620650300",
+            "colorName": "\u672c\u767d",
+            "colorSeriesCode": "6",
+            "colorSeriesName": "\u767d\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/206503\/206503_00_09.jpg",
+            "stock": 555
+          },
+          {
+            "colorCode": "20",
+            "colorCodeId": "HQ01S11620650320",
+            "colorName": "\u71c3\u70e7\u9ec4",
+            "colorSeriesCode": "12",
+            "colorSeriesName": "\u9ec4\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/206503\/206503_20_11.jpg",
+            "stock": 555
+          },
+          {
+            "colorCode": "50",
+            "colorCodeId": "HQ01S11620650350",
+            "colorName": "\u6de1\u8584\u7eff",
+            "colorSeriesCode": "10",
+            "colorSeriesName": "\u7eff\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/206503\/206503_50_10.jpg",
+            "stock": 555
+          }
+        ],
+        "channelCode": "HQ01S116",
+        "icon": "",
+        "imgPx": "",
+        "tagType": "",
+        "tagName": "",
+        "tagLocation": "rigth_bottom",
+        "tagPosition": "",
+        "imgUrl_300_300": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/206503\/206503_00.jpg?x-oss-process=image\/resize,m_lfit,w_300,h_300",
+        "defaultImage": "\/sources\/images\/goods\/MB\/206503\/206503_00.jpg"
+      },
+      {
+        "brandCode": "MN",
+        "brandName": "Mini MooMoo",
+        "categoryId": 696,
+        "imgUrl": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/203566\/203566_00.jpg",
+        "productCode": "203566",
+        "productId": "203566",
+        "productName": "\u7537\u5a74\u7ae5\u5361\u901a\u5370\u82b1\u77ed\u8896T\u6064\uff08\u652f\u630114\u5929\u9000\u6362\uff09",
+        "marketPrice": 109,
+        "saleCount": 213,
+        "salesPrice": 29,
+        "stock": 444,
+        "storeId": "",
+        "displayTag": "",
+        "discount": "27.0",
+        "promotionIds": "",
+        "tags": [
+          
+        ],
+        "colorProducts": [
+          {
+            "colorCode": "01",
+            "colorCodeId": "HQ01S11620356601",
+            "colorName": "\u4eae\u767d\u8272",
+            "colorSeriesCode": "6",
+            "colorSeriesName": "\u767d\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/203566\/203566_01_09.jpg",
+            "stock": 444
+          }
+        ],
+        "channelCode": "HQ01S116",
+        "icon": "",
+        "imgPx": "",
+        "tagType": "",
+        "tagName": "",
+        "tagLocation": "rigth_bottom",
+        "tagPosition": "",
+        "imgUrl_300_300": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/203566\/203566_00.jpg?x-oss-process=image\/resize,m_lfit,w_300,h_300",
+        "defaultImage": "\/sources\/images\/goods\/MB\/203566\/203566_00.jpg"
+      },
+      {
+        "brandCode": "MB",
+        "brandName": "Metersbonwe",
+        "categoryId": 145,
+        "imgUrl": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/205579\/205579_00.jpg",
+        "productCode": "205579",
+        "productId": "205579",
+        "productName": "\u5973\u5706\u9886\u767e\u8272\u767e\u642d\u9488\u7ec7\u957f\u8896\u6064\uff08\u652f\u630114\u5929\u9000\u6362\uff09",
+        "marketPrice": 99,
+        "saleCount": 115,
+        "salesPrice": 12,
+        "stock": 10878,
+        "storeId": "",
+        "displayTag": "",
+        "discount": "12.0",
+        "promotionIds": "",
+        "tags": [
+          
+        ],
+        "colorProducts": [
+          {
+            "colorCode": "00",
+            "colorCodeId": "HQ01S11620557900",
+            "colorName": "\u68c9\u82b1\u7cd6\u767d",
+            "colorSeriesCode": "6",
+            "colorSeriesName": "\u767d\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/205579\/205579_00_10.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "20",
+            "colorCodeId": "HQ01S11620557920",
+            "colorName": "\u6781\u5149\u9ec4",
+            "colorSeriesCode": "12",
+            "colorSeriesName": "\u9ec4\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/205579\/205579_20_13.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "21",
+            "colorCodeId": "HQ01S11620557921",
+            "colorName": "\u65e7\u91d1",
+            "colorSeriesCode": "12",
+            "colorSeriesName": "\u9ec4\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/205579\/205579_21_12.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "30",
+            "colorCodeId": "HQ01S11620557930",
+            "colorName": "\u9ebb\u82b1\u7070",
+            "colorSeriesCode": "5",
+            "colorSeriesName": "\u7070\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/205579\/205579_30_09.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "31",
+            "colorCodeId": "HQ01S11620557931",
+            "colorName": "\u8fd0\u52a8\u7070",
+            "colorSeriesCode": "5",
+            "colorSeriesName": "\u7070\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/205579\/205579_31_17.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "40",
+            "colorCodeId": "HQ01S11620557940",
+            "colorName": "\u725b\u4ed4\u84dd\u82b1\u7eb1",
+            "colorSeriesCode": "11",
+            "colorSeriesName": "\u84dd\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/205579\/205579_40_15.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "41",
+            "colorCodeId": "HQ01S11620557941",
+            "colorName": "\u7f51\u7edc\u84dd",
+            "colorSeriesCode": "11",
+            "colorSeriesName": "\u84dd\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/205579\/205579_41_14.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "50",
+            "colorCodeId": "HQ01S11620557950",
+            "colorName": "\u9752\u77f3\u7eff",
+            "colorSeriesCode": "10",
+            "colorSeriesName": "\u7eff\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/205579\/205579_50_12.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "60",
+            "colorCodeId": "HQ01S11620557960",
+            "colorName": "\u7d2b\u7f57\u5170",
+            "colorSeriesCode": "7",
+            "colorSeriesName": "\u7d2b\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/205579\/205579_60_11.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "70",
+            "colorCodeId": "HQ01S11620557970",
+            "colorName": "\u84b2\u516c\u82f1\u7c89",
+            "colorSeriesCode": "9",
+            "colorSeriesName": "\u7ea2\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/205579\/205579_70_13.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "71",
+            "colorCodeId": "HQ01S11620557971",
+            "colorName": "\u590d\u53e4\u82b1\u7eb1\u7ea2",
+            "colorSeriesCode": "9",
+            "colorSeriesName": "\u7ea2\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/205579\/205579_71_11.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "72",
+            "colorCodeId": "HQ01S11620557972",
+            "colorName": "\u4f0a\u7538\u7ea2",
+            "colorSeriesCode": "9",
+            "colorSeriesName": "\u7ea2\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/205579\/205579_72_10.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "74",
+            "colorCodeId": "HQ01S11620557974",
+            "colorName": "\u6d53\u70c8\u7ea2",
+            "colorSeriesCode": "9",
+            "colorSeriesName": "\u7ea2\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/205579\/205579_74_16.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "90",
+            "colorCodeId": "HQ01S11620557990",
+            "colorName": "\u5f71\u9ed1",
+            "colorSeriesCode": "3",
+            "colorSeriesName": "\u68d5\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/205579\/205579_90_14.jpg",
+            "stock": 777
+          }
+        ],
+        "channelCode": "HQ01S116",
+        "icon": "",
+        "imgPx": "",
+        "tagType": "",
+        "tagName": "",
+        "tagLocation": "rigth_bottom",
+        "tagPosition": "",
+        "imgUrl_300_300": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/205579\/205579_00.jpg?x-oss-process=image\/resize,m_lfit,w_300,h_300",
+        "defaultImage": "\/sources\/images\/goods\/MB\/205579\/205579_00.jpg"
+      },
+      {
+        "brandCode": "MB",
+        "brandName": "Metersbonwe",
+        "categoryId": 113,
+        "imgUrl": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/206452\/206452_00.jpg",
+        "productCode": "206452",
+        "productId": "206452",
+        "productName": "\u7537\u9488\u7ec7\u77ed\u8896\u6064\uff08\u652f\u630114\u5929\u9000\u6362\uff09",
+        "marketPrice": 79,
+        "saleCount": 732,
+        "salesPrice": 19,
+        "stock": 8547,
+        "storeId": "",
+        "displayTag": "",
+        "discount": "24.0",
+        "promotionIds": "",
+        "tags": [
+          
+        ],
+        "colorProducts": [
+          {
+            "colorCode": "00",
+            "colorCodeId": "HQ01S11620645200",
+            "colorName": "\u4eae\u767d\u8272-1",
+            "colorSeriesCode": "6",
+            "colorSeriesName": "\u767d\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/206452\/206452_00_10.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "01",
+            "colorCodeId": "HQ01S11620645201",
+            "colorName": "\u4eae\u767d\u8272",
+            "colorSeriesCode": "6",
+            "colorSeriesName": "\u767d\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/206452\/206452_01_15.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "20",
+            "colorCodeId": "HQ01S11620645220",
+            "colorName": "\u6d45\u9999\u8349\u9ec4",
+            "colorSeriesCode": "12",
+            "colorSeriesName": "\u9ec4\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/206452\/206452_20_17.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "30",
+            "colorCodeId": "HQ01S11620645230",
+            "colorName": "\u4e2d\u82b1\u7070",
+            "colorSeriesCode": "5",
+            "colorSeriesName": "\u7070\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/206452\/206452_30_19.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "40",
+            "colorCodeId": "HQ01S11620645240",
+            "colorName": "\u80af\u5854\u57fa\u84dd",
+            "colorSeriesCode": "11",
+            "colorSeriesName": "\u84dd\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/206452\/206452_40_16.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "41",
+            "colorCodeId": "HQ01S11620645241",
+            "colorName": "\u9e22\u5c3e\u84dd",
+            "colorSeriesCode": "11",
+            "colorSeriesName": "\u84dd\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/206452\/206452_41_11.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "50",
+            "colorCodeId": "HQ01S11620645250",
+            "colorName": "\u6c34\u7eff",
+            "colorSeriesCode": "10",
+            "colorSeriesName": "\u7eff\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/206452\/206452_50_18.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "70",
+            "colorCodeId": "HQ01S11620645270",
+            "colorName": "\u7f28\u4e39\u7c89\u82b1\u7eb1",
+            "colorSeriesCode": "9",
+            "colorSeriesName": "\u7ea2\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/206452\/206452_70_13.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "71",
+            "colorCodeId": "HQ01S11620645271",
+            "colorName": "\u9152\u7ea2",
+            "colorSeriesCode": "9",
+            "colorSeriesName": "\u7ea2\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/206452\/206452_71_14.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "90",
+            "colorCodeId": "HQ01S11620645290",
+            "colorName": "\u9e22\u5c3e\u84dd\u9ed1",
+            "colorSeriesCode": "3",
+            "colorSeriesName": "\u68d5\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/206452\/206452_90_09.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "91",
+            "colorCodeId": "HQ01S11620645291",
+            "colorName": "\u5f71\u9ed1",
+            "colorSeriesCode": "3",
+            "colorSeriesName": "\u68d5\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/206452\/206452_91_12.jpg",
+            "stock": 777
+          }
+        ],
+        "channelCode": "HQ01S116",
+        "icon": "",
+        "imgPx": "",
+        "tagType": "",
+        "tagName": "",
+        "tagLocation": "rigth_bottom",
+        "tagPosition": "",
+        "imgUrl_300_300": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/206452\/206452_00.jpg?x-oss-process=image\/resize,m_lfit,w_300,h_300",
+        "defaultImage": "\/sources\/images\/goods\/MB\/206452\/206452_00.jpg"
+      },
+      {
+        "brandCode": "MB",
+        "brandName": "Metersbonwe",
+        "categoryId": 145,
+        "imgUrl": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/205567\/205567_00.jpg",
+        "productCode": "205567",
+        "productId": "205567",
+        "productName": "\u5973\u57fa\u672c\u8896\u53e3\u7ffb\u8fb9\u9488\u7ec7\u957f\u8896\u6064\uff08\u652f\u630114\u5929\u9000\u6362\uff09",
+        "marketPrice": 119,
+        "saleCount": 114,
+        "salesPrice": 19,
+        "stock": 4662,
+        "storeId": "",
+        "displayTag": "",
+        "discount": "16.0",
+        "promotionIds": "",
+        "tags": [
+          
+        ],
+        "colorProducts": [
+          {
+            "colorCode": "00",
+            "colorCodeId": "HQ01S11620556700",
+            "colorName": "\u767d\u9ed1\u7ec4",
+            "colorSeriesCode": "6",
+            "colorSeriesName": "\u767d\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/205567\/205567_00_09.jpg",
+            "stock": 666
+          },
+          {
+            "colorCode": "20",
+            "colorCodeId": "HQ01S11620556720",
+            "colorName": "\u84dd\u9ec4\u7ec4",
+            "colorSeriesCode": "12",
+            "colorSeriesName": "\u9ec4\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/205567\/205567_20_10.jpg",
+            "stock": 666
+          },
+          {
+            "colorCode": "30",
+            "colorCodeId": "HQ01S11620556730",
+            "colorName": "\u7070\u7c89\u7ec4",
+            "colorSeriesCode": "5",
+            "colorSeriesName": "\u7070\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/205567\/205567_30_10.jpg",
+            "stock": 666
+          },
+          {
+            "colorCode": "40",
+            "colorCodeId": "HQ01S11620556740",
+            "colorName": "\u84dd\u7ea2\u7ec4",
+            "colorSeriesCode": "11",
+            "colorSeriesName": "\u84dd\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/205567\/205567_40_09.jpg",
+            "stock": 666
+          },
+          {
+            "colorCode": "50",
+            "colorCodeId": "HQ01S11620556750",
+            "colorName": "\u7eff\u84dd\u7ec4",
+            "colorSeriesCode": "10",
+            "colorSeriesName": "\u7eff\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/205567\/205567_50_09.jpg",
+            "stock": 666
+          },
+          {
+            "colorCode": "70",
+            "colorCodeId": "HQ01S11620556770",
+            "colorName": "\u7ea2\u84dd\u7ec4",
+            "colorSeriesCode": "9",
+            "colorSeriesName": "\u7ea2\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/205567\/205567_70_10.jpg",
+            "stock": 666
+          },
+          {
+            "colorCode": "90",
+            "colorCodeId": "HQ01S11620556790",
+            "colorName": "\u9ed1\u767d\u7ec4",
+            "colorSeriesCode": "3",
+            "colorSeriesName": "\u68d5\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/205567\/205567_90_09.jpg",
+            "stock": 666
+          }
+        ],
+        "channelCode": "HQ01S116",
+        "icon": "",
+        "imgPx": "",
+        "tagType": "",
+        "tagName": "",
+        "tagLocation": "rigth_bottom",
+        "tagPosition": "",
+        "imgUrl_300_300": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/205567\/205567_00.jpg?x-oss-process=image\/resize,m_lfit,w_300,h_300",
+        "defaultImage": "\/sources\/images\/goods\/MB\/205567\/205567_00.jpg"
+      },
+      {
+        "brandCode": "MB",
+        "brandName": "Metersbonwe",
+        "categoryId": 146,
+        "imgUrl": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/206737\/206737_00.jpg",
+        "productCode": "206737",
+        "productId": "206737",
+        "productName": "\u5973\u9488\u7ec7\u77ed\u8896\u6064",
+        "marketPrice": 99,
+        "saleCount": 97,
+        "salesPrice": 29,
+        "stock": 1665,
+        "storeId": "",
+        "displayTag": "",
+        "discount": "29.0",
+        "promotionIds": "",
+        "tags": [
+          
+        ],
+        "colorProducts": [
+          {
+            "colorCode": "00",
+            "colorCodeId": "HQ01S11620673700",
+            "colorName": "\u6f02\u767d",
+            "colorSeriesCode": "6",
+            "colorSeriesName": "\u767d\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/206737\/206737_00_09.jpg",
+            "stock": 555
+          },
+          {
+            "colorCode": "20",
+            "colorCodeId": "HQ01S11620673720",
+            "colorName": "\u4eae\u9ec4",
+            "colorSeriesCode": "12",
+            "colorSeriesName": "\u9ec4\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/206737\/206737_20_11.jpg",
+            "stock": 555
+          },
+          {
+            "colorCode": "30",
+            "colorCodeId": "HQ01S11620673730",
+            "colorName": "\u6d45\u7070\u8272",
+            "colorSeriesCode": "5",
+            "colorSeriesName": "\u7070\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/206737\/206737_30_10.jpg",
+            "stock": 555
+          }
+        ],
+        "channelCode": "HQ01S116",
+        "icon": "",
+        "imgPx": "",
+        "tagType": "",
+        "tagName": "",
+        "tagLocation": "rigth_bottom",
+        "tagPosition": "",
+        "imgUrl_300_300": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/206737\/206737_00.jpg?x-oss-process=image\/resize,m_lfit,w_300,h_300",
+        "defaultImage": "\/sources\/images\/goods\/MB\/206737\/206737_00.jpg"
+      },
+      {
+        "brandCode": "MB",
+        "brandName": "Metersbonwe",
+        "categoryId": 146,
+        "imgUrl": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/206925\/206925_00.jpg",
+        "productCode": "206925",
+        "productId": "206925",
+        "productName": "\u5973MTEE\u8fea\u58eb\u5c3c\u516c\u4e3b\u7cfb\u5217\uff08\u901a\u680f\uff0c\u53f3\u4e0a\uff09",
+        "marketPrice": 79,
+        "saleCount": 165,
+        "salesPrice": 35,
+        "stock": 11110,
+        "storeId": "",
+        "displayTag": "",
+        "discount": "44.0",
+        "promotionIds": "",
+        "tags": [
+          "Test-TongLan"
+        ],
+        "colorProducts": [
+          {
+            "colorCode": "30",
+            "colorCodeId": "HQ01S11620692530",
+            "colorName": "\u7070\u8272\u7ec4",
+            "colorSeriesCode": "5",
+            "colorSeriesName": "\u7070\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/206925\/206925_30_00.jpg",
+            "stock": 5555
+          },
+          {
+            "colorCode": "90",
+            "colorCodeId": "HQ01S11620692590",
+            "colorName": "\u9ed1\u8272\u7ec4",
+            "colorSeriesCode": "3",
+            "colorSeriesName": "\u68d5\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/206925\/206925_90_00.jpg",
+            "stock": 5555
+          }
+        ],
+        "channelCode": "HQ01S116",
+        "icon": "https:\/\/img.banggo.com\/sources\/cms\/banggo2017\/PC\/828dis.png",
+        "imgPx": "500*134",
+        "tagType": 4,
+        "tagName": "35.01",
+        "tagLocation": "rigth_top",
+        "tagPosition": "",
+        "imgUrl_300_300": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/206925\/206925_00.jpg?x-oss-process=image\/resize,m_lfit,w_300,h_300",
+        "defaultImage": "\/sources\/images\/goods\/MB\/206925\/206925_00.jpg"
+      },
+      {
+        "brandCode": "MB",
+        "brandName": "Metersbonwe",
+        "categoryId": 146,
+        "imgUrl": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/207883\/207883_00.jpg",
+        "productCode": "207883",
+        "productId": "207883",
+        "productName": "\u5973MTEE\u6e05\u5bab\u8774\u8776\u8896\u9488\u7ec7\u77ed\u8896\u6064\uff08\u652f\u630114\u5929\u9000\u6362\uff09",
+        "marketPrice": 119,
+        "saleCount": 120,
+        "salesPrice": 39,
+        "stock": 1665,
+        "storeId": "",
+        "displayTag": "",
+        "discount": "33.0",
+        "promotionIds": "",
+        "tags": [
+          
+        ],
+        "colorProducts": [
+          {
+            "colorCode": "00",
+            "colorCodeId": "HQ01S11620788300",
+            "colorName": "\u672c\u767d",
+            "colorSeriesCode": "6",
+            "colorSeriesName": "\u767d\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/207883\/207883_00_10.jpg",
+            "stock": 555
+          },
+          {
+            "colorCode": "10",
+            "colorCodeId": "HQ01S11620788310",
+            "colorName": "\u73ab\u7c89\u8272",
+            "colorSeriesCode": "2",
+            "colorSeriesName": "\u674f\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/207883\/207883_10_09.jpg",
+            "stock": 555
+          },
+          {
+            "colorCode": "90",
+            "colorCodeId": "HQ01S11620788390",
+            "colorName": "\u70ad\u9ed1\u82b1\u7070",
+            "colorSeriesCode": "3",
+            "colorSeriesName": "\u68d5\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/207883\/207883_90_11.jpg",
+            "stock": 555
+          }
+        ],
+        "channelCode": "HQ01S116",
+        "icon": "",
+        "imgPx": "",
+        "tagType": "",
+        "tagName": "",
+        "tagLocation": "rigth_bottom",
+        "tagPosition": "",
+        "imgUrl_300_300": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/207883\/207883_00.jpg?x-oss-process=image\/resize,m_lfit,w_300,h_300",
+        "defaultImage": "\/sources\/images\/goods\/MB\/207883\/207883_00.jpg"
+      },
+      {
+        "brandCode": "MB",
+        "brandName": "Metersbonwe",
+        "categoryId": 146,
+        "imgUrl": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/207921\/207921_00.jpg",
+        "productCode": "207921",
+        "productId": "207921",
+        "productName": "\u5973\u524d\u77ed\u540e\u957f\u7ec6\u8282\u5706\u9886\u77ed\u8896\u6064\uff08\u652f\u630114\u5929\u9000\u6362\uff09",
+        "marketPrice": 69,
+        "saleCount": 101,
+        "salesPrice": 9,
+        "stock": 6660,
+        "storeId": "",
+        "displayTag": "",
+        "discount": "13.0",
+        "promotionIds": "",
+        "tags": [
+          
+        ],
+        "colorProducts": [
+          {
+            "colorCode": "00",
+            "colorCodeId": "HQ01S11620792100",
+            "colorName": "\u672c\u767d",
+            "colorSeriesCode": "6",
+            "colorSeriesName": "\u767d\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/207921\/207921_00_18.jpg",
+            "stock": 666
+          },
+          {
+            "colorCode": "20",
+            "colorCodeId": "HQ01S11620792120",
+            "colorName": "\u8367\u5149\u7c89\u7eff",
+            "colorSeriesCode": "12",
+            "colorSeriesName": "\u9ec4\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/207921\/207921_20_10.jpg",
+            "stock": 666
+          },
+          {
+            "colorCode": "21",
+            "colorCodeId": "HQ01S11620792121",
+            "colorName": "\u8367\u5149\u6854\u8272",
+            "colorSeriesCode": "12",
+            "colorSeriesName": "\u9ec4\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/207921\/207921_21_12.jpg",
+            "stock": 666
+          },
+          {
+            "colorCode": "22",
+            "colorCodeId": "HQ01S11620792122",
+            "colorName": "\u71c3\u70e7\u9ec4",
+            "colorSeriesCode": "12",
+            "colorSeriesName": "\u9ec4\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/207921\/207921_22_09.jpg",
+            "stock": 666
+          },
+          {
+            "colorCode": "30",
+            "colorCodeId": "HQ01S11620792130",
+            "colorName": "\u8fd0\u52a8\u7070",
+            "colorSeriesCode": "5",
+            "colorSeriesName": "\u7070\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/207921\/207921_30_17.jpg",
+            "stock": 666
+          },
+          {
+            "colorCode": "40",
+            "colorCodeId": "HQ01S11620792140",
+            "colorName": "\u84dd\u82b1\u7eb1",
+            "colorSeriesCode": "11",
+            "colorSeriesName": "\u84dd\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/207921\/207921_40_15.jpg",
+            "stock": 666
+          },
+          {
+            "colorCode": "50",
+            "colorCodeId": "HQ01S11620792150",
+            "colorName": "\u6de1\u8584\u7eff",
+            "colorSeriesCode": "10",
+            "colorSeriesName": "\u7eff\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/207921\/207921_50_16.jpg",
+            "stock": 666
+          },
+          {
+            "colorCode": "70",
+            "colorCodeId": "HQ01S11620792170",
+            "colorName": "\u8367\u5149\u73ab",
+            "colorSeriesCode": "9",
+            "colorSeriesName": "\u7ea2\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/207921\/207921_70_11.jpg",
+            "stock": 666
+          },
+          {
+            "colorCode": "71",
+            "colorCodeId": "HQ01S11620792171",
+            "colorName": "\u756a\u8304\u7ea2",
+            "colorSeriesCode": "9",
+            "colorSeriesName": "\u7ea2\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/207921\/207921_71_13.jpg",
+            "stock": 666
+          },
+          {
+            "colorCode": "90",
+            "colorCodeId": "HQ01S11620792190",
+            "colorName": "\u6b63\u9ed1",
+            "colorSeriesCode": "3",
+            "colorSeriesName": "\u68d5\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/207921\/207921_90_14.jpg",
+            "stock": 666
+          }
+        ],
+        "channelCode": "HQ01S116",
+        "icon": "",
+        "imgPx": "",
+        "tagType": "",
+        "tagName": "",
+        "tagLocation": "rigth_bottom",
+        "tagPosition": "",
+        "imgUrl_300_300": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/207921\/207921_00.jpg?x-oss-process=image\/resize,m_lfit,w_300,h_300",
+        "defaultImage": "\/sources\/images\/goods\/MB\/207921\/207921_00.jpg"
+      },
+      {
+        "brandCode": "MB",
+        "brandName": "Metersbonwe",
+        "categoryId": 113,
+        "imgUrl": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/226399\/226399_00.jpg",
+        "productCode": "226399",
+        "productId": "226399",
+        "productName": "\u7537SEVEN DAYS\u5370\u82b1T\uff08\u901a\u680f\uff0c\u53f3\u4e0a\uff09",
+        "marketPrice": 59,
+        "saleCount": 232,
+        "salesPrice": 49,
+        "stock": 5439,
+        "storeId": "",
+        "displayTag": "",
+        "discount": "83.0",
+        "promotionIds": "",
+        "tags": [
+          "Test-TongLan"
+        ],
+        "colorProducts": [
+          {
+            "colorCode": "00",
+            "colorCodeId": "HQ01S11622639900",
+            "colorName": "\u4eae\u767d\u8272",
+            "colorSeriesCode": "6",
+            "colorSeriesName": "\u767d\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/226399\/226399_00_00.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "30",
+            "colorCodeId": "HQ01S11622639930",
+            "colorName": "\u6df1\u74e6\u7070",
+            "colorSeriesCode": "5",
+            "colorSeriesName": "\u7070\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/226399\/226399_30_00.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "31",
+            "colorCodeId": "HQ01S11622639931",
+            "colorName": "\u4e2d\u82b1\u7070",
+            "colorSeriesCode": "5",
+            "colorSeriesName": "\u7070\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/226399\/226399_31_00.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "40",
+            "colorCodeId": "HQ01S11622639940",
+            "colorName": "\u7f51\u7edc\u84dd",
+            "colorSeriesCode": "11",
+            "colorSeriesName": "\u84dd\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/226399\/226399_40_00.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "50",
+            "colorCodeId": "HQ01S11622639950",
+            "colorName": "\u6d77\u5ce1\u7eff",
+            "colorSeriesCode": "10",
+            "colorSeriesName": "\u7eff\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/226399\/226399_50_00.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "70",
+            "colorCodeId": "HQ01S11622639970",
+            "colorName": "\u70ed\u706b\u7ea2",
+            "colorSeriesCode": "9",
+            "colorSeriesName": "\u7ea2\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/226399\/226399_70_00.jpg",
+            "stock": 777
+          },
+          {
+            "colorCode": "90",
+            "colorCodeId": "HQ01S11622639990",
+            "colorName": "\u5f71\u9ed1",
+            "colorSeriesCode": "3",
+            "colorSeriesName": "\u68d5\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/226399\/226399_90_00.jpg",
+            "stock": 777
+          }
+        ],
+        "channelCode": "HQ01S116",
+        "icon": "https:\/\/img.banggo.com\/sources\/cms\/banggo2017\/PC\/828dis.png",
+        "imgPx": "500*134",
+        "tagType": 4,
+        "tagName": "59",
+        "tagLocation": "rigth_top",
+        "tagPosition": "",
+        "imgUrl_300_300": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/226399\/226399_00.jpg?x-oss-process=image\/resize,m_lfit,w_300,h_300",
+        "defaultImage": "\/sources\/images\/goods\/MB\/226399\/226399_00.jpg"
+      },
+      {
+        "brandCode": "MB",
+        "brandName": "Metersbonwe",
+        "categoryId": 146,
+        "imgUrl": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/221745\/221745_00.jpg",
+        "productCode": "221745",
+        "productId": "221745",
+        "productName": "\u5973\u62fc\u7ec7\u5e26\u62bd\u6a61\u7b4b\u80cc\u5fc3",
+        "marketPrice": 159,
+        "saleCount": 140,
+        "salesPrice": 15,
+        "stock": 1332,
+        "storeId": "",
+        "displayTag": "",
+        "discount": "9.0",
+        "promotionIds": "",
+        "tags": [
+          
+        ],
+        "colorProducts": [
+          {
+            "colorCode": "00",
+            "colorCodeId": "HQ01S11622174500",
+            "colorName": "\u6f02\u767d",
+            "colorSeriesCode": "6",
+            "colorSeriesName": "\u767d\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/221745\/221745_00_10.jpg",
+            "stock": 666
+          },
+          {
+            "colorCode": "70",
+            "colorCodeId": "HQ01S11622174570",
+            "colorName": "\u841d\u8389\u7c89",
+            "colorSeriesCode": "9",
+            "colorSeriesName": "\u7ea2\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/221745\/221745_70_09.jpg",
+            "stock": 666
+          }
+        ],
+        "channelCode": "HQ01S116",
+        "icon": "",
+        "imgPx": "",
+        "tagType": "",
+        "tagName": "",
+        "tagLocation": "rigth_bottom",
+        "tagPosition": "",
+        "imgUrl_300_300": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/221745\/221745_00.jpg?x-oss-process=image\/resize,m_lfit,w_300,h_300",
+        "defaultImage": "\/sources\/images\/goods\/MB\/221745\/221745_00.jpg"
+      },
+      {
+        "brandCode": "MB",
+        "brandName": "Metersbonwe",
+        "categoryId": 146,
+        "imgUrl": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/207877\/207877_00.jpg",
+        "productCode": "207877",
+        "productId": "207877",
+        "productName": "\u5973MTEE\u590d\u53e4\u5c0f\u9e1f\u5370\u82b1\u77ed\u8896\u6064\uff08\u652f\u630114\u5929\u9000\u6362\uff09",
+        "marketPrice": 119,
+        "saleCount": 233,
+        "salesPrice": 15,
+        "stock": 1998,
+        "storeId": "",
+        "displayTag": "",
+        "discount": "13.0",
+        "promotionIds": "",
+        "tags": [
+          
+        ],
+        "colorProducts": [
+          {
+            "colorCode": "20",
+            "colorCodeId": "HQ01S11620787720",
+            "colorName": "\u6d45\u67e0\u6aac\u9ec4",
+            "colorSeriesCode": "12",
+            "colorSeriesName": "\u9ec4\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/207877\/207877_20_10.jpg",
+            "stock": 666
+          },
+          {
+            "colorCode": "40",
+            "colorCodeId": "HQ01S11620787740",
+            "colorName": "\u6d77\u6e7e\u84dd",
+            "colorSeriesCode": "11",
+            "colorSeriesName": "\u84dd\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/207877\/207877_40_09.jpg",
+            "stock": 666
+          },
+          {
+            "colorCode": "41",
+            "colorCodeId": "HQ01S11620787741",
+            "colorName": "\u5a74\u513f\u84dd",
+            "colorSeriesCode": "11",
+            "colorSeriesName": "\u84dd\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/207877\/207877_41_11.jpg",
+            "stock": 666
+          }
+        ],
+        "channelCode": "HQ01S116",
+        "icon": "",
+        "imgPx": "",
+        "tagType": "",
+        "tagName": "",
+        "tagLocation": "rigth_bottom",
+        "tagPosition": "",
+        "imgUrl_300_300": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/207877\/207877_00.jpg?x-oss-process=image\/resize,m_lfit,w_300,h_300",
+        "defaultImage": "\/sources\/images\/goods\/MB\/207877\/207877_00.jpg"
+      },
+      {
+        "brandCode": "MB",
+        "brandName": "Metersbonwe",
+        "categoryId": 146,
+        "imgUrl": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/207933\/207933_00.jpg",
+        "productCode": "207933",
+        "productId": "207933",
+        "productName": "\u5973\u591a\u5de5\u827a\u5b57\u4f53\u77ed\u8896\u6064\uff08\u652f\u630114\u5929\u9000\u6362\uff09",
+        "marketPrice": 99,
+        "saleCount": 110,
+        "salesPrice": 15,
+        "stock": 3996,
+        "storeId": "",
+        "displayTag": "",
+        "discount": "15.0",
+        "promotionIds": "",
+        "tags": [
+          
+        ],
+        "colorProducts": [
+          {
+            "colorCode": "00",
+            "colorCodeId": "HQ01S11620793300",
+            "colorName": "\u672c\u767d",
+            "colorSeriesCode": "6",
+            "colorSeriesName": "\u767d\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/207933\/207933_00_10.jpg",
+            "stock": 666
+          },
+          {
+            "colorCode": "20",
+            "colorCodeId": "HQ01S11620793320",
+            "colorName": "\u6d45\u6674\u9ec4",
+            "colorSeriesCode": "12",
+            "colorSeriesName": "\u9ec4\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/207933\/207933_20_14.jpg",
+            "stock": 666
+          },
+          {
+            "colorCode": "40",
+            "colorCodeId": "HQ01S11620793340",
+            "colorName": "\u6c34\u6676\u84dd\u82b1\u7eb1",
+            "colorSeriesCode": "11",
+            "colorSeriesName": "\u84dd\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/207933\/207933_40_09.jpg",
+            "stock": 666
+          },
+          {
+            "colorCode": "41",
+            "colorCodeId": "HQ01S11620793341",
+            "colorName": "\u6df1\u6d77\u519b\u84dd",
+            "colorSeriesCode": "11",
+            "colorSeriesName": "\u84dd\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/207933\/207933_41_13.jpg",
+            "stock": 666
+          },
+          {
+            "colorCode": "70",
+            "colorCodeId": "HQ01S11620793370",
+            "colorName": "\u8367\u5149\u73ab",
+            "colorSeriesCode": "9",
+            "colorSeriesName": "\u7ea2\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/207933\/207933_70_11.jpg",
+            "stock": 666
+          },
+          {
+            "colorCode": "80",
+            "colorCodeId": "HQ01S11620793380",
+            "colorName": "\u8367\u5149\u7c89\u6a59",
+            "colorSeriesCode": "4",
+            "colorSeriesName": "\u6a59\u8272\u7cfb",
+            "cpStatus": 1,
+            "imgUrl": "\/sources\/images\/goods\/MB\/207933\/207933_80_12.jpg",
+            "stock": 666
+          }
+        ],
+        "channelCode": "HQ01S116",
+        "icon": "",
+        "imgPx": "",
+        "tagType": "",
+        "tagName": "",
+        "tagLocation": "rigth_bottom",
+        "tagPosition": "",
+        "imgUrl_300_300": "\/\/pic.banggo.com\/sources\/images\/goods\/MB\/207933\/207933_00.jpg?x-oss-process=image\/resize,m_lfit,w_300,h_300",
+        "defaultImage": "\/sources\/images\/goods\/MB\/207933\/207933_00.jpg"
+      }
+    ],
+    "construtor": {
+      "srcWord": "T \u6064"
+    },
+    "fpage": {
+      "total": 1984,
+      "pagesize": 20,
+      "pageNum": 100,
+      "currentPage": 1
+    },
+    "img_host": {
+      "default": "\/\/s.banggo.com\/pub7\/images\/mbshop\/common\/banggo.png"
+    }
+  },
+  "msg": ""
+}
