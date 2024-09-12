@@ -1,0 +1,77 @@
+html{font-size:20px}
+@media screen and (min-width:321px) and (max-width:375px){html{font-size:22px}}
+@media screen and (min-width:376px) and (max-width:414px){html{font-size:24px}}
+@media screen and (min-width:415px) and (max-width:639px){html{font-size:30px}}
+@media screen and (min-width:640px) and (max-width:719px){html{font-size:40px}}
+@media screen and (min-width:720px) and (max-width:749px){html{font-size:45px}}
+@media screen and (min-width:750px) and (max-width:799px){html{font-size:47px}}
+@media screen and (min-width:800px){html{font-size:50px}}
+@mixin clearfix {
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+@mixin scrollBar {
+  &::-webkit-scrollbar-track-piece {
+    background: #d3dce6;
+  }
+  &::-webkit-scrollbar {
+    width: 6px;
+  }
+  &::-webkit-scrollbar-thumb {
+    background: #99a9bf;
+    border-radius: 20px;
+  }
+}
+
+@mixin relative {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+@mixin pct($pct) {
+  width: #{$pct};
+  position: relative;
+  margin: 0 auto;
+}
+
+@mixin triangle($width, $height, $color, $direction) {
+  $width: $width/2;
+  $color-border-style: $height solid $color;
+  $transparent-border-style: $width solid transparent;
+  height: 0;
+  width: 0;
+  @if $direction == up {
+    border-bottom: $color-border-style;
+    border-left: $transparent-border-style;
+    border-right: $transparent-border-style;
+  } @else if $direction == right {
+    border-left: $color-border-style;
+    border-top: $transparent-border-style;
+    border-bottom: $transparent-border-style;
+  } @else if $direction == down {
+    border-top: $color-border-style;
+    border-left: $transparent-border-style;
+    border-right: $transparent-border-style;
+  } @else if $direction == left {
+    border-right: $color-border-style;
+    border-top: $transparent-border-style;
+    border-bottom: $transparent-border-style;
+  }
+}
+/*
+* 预留纵向间距
+* */
+[data-guid-spacing='small']{
+  display: block;height: 8px;
+}
+[data-guid-spacing='middle']{
+  display: block;height: 16px;
+}
+[data-guid-spacing='large']{
+  display: block;height: 32px;
+}
